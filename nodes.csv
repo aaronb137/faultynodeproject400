@@ -1,0 +1,5 @@
+id,name,fail_rate,state,up_count,down_count,score
+0,A,10,UP,0,0,0
+1,B,100,UP,0,0,0
+2,C,74,UP,0,0,0
+3,D,42,UP,0,0,0
