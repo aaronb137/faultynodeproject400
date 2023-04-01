@@ -5,7 +5,7 @@ Created by Melanie Bazgan, Deandre Mylove, and Aaron Bartee
 ------------------------------------------------------------
 
 Documentation can be found here:
-https://docs.google.com/document/d/16SYyFyltG-xRmCbcgw1VORTyeFD2iEcrSEX6uWLZkek/edit
+https://docs.google.com/document/d/16SYyFyltG-xRmCbcgw1VORTyeFD2iEcrSEX6uWLZkek/edit?usp=sharing
 
 Utilizes Pandas and NetworkX Python libraries using Dijkstra's Algorithm to traverse nodes.
 Created rating system for each node and displays reliability of each route.
